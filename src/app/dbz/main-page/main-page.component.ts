@@ -13,5 +13,7 @@ export class MainPageComponent {
     poder: 1000
   }
 
-  constructor() {}
+  constructor() {
+    console.log('hello')
+  }
 }
